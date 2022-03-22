@@ -47,7 +47,7 @@ Classe de Teste: TestStream
 Quantidade de Testes: 4
 
 # 4- Quando digita a url, explique oque acontece no protocolo HTTP(cliente e servidor)
-Quando digitamos a URL http://www.lucasbemol.com.br no browser os seguintes passos acontecem:
+Quando digitamos a URL http://www.mpatyele.com.br no browser os seguintes passos acontecem:
 
 - Ao digitarmos a ulr fazemos uma requisição GET seguindo o protocolo HTTP/1.1
 - Nessa requisição enviamos um cabeçalho(Header) contendo diversas informações, algumas delas são: tipo dos dados esperados no retorno Accept: text/xml,application/xml,application/xhtml+xml, Accept-Language: en-us,en;q=0.5, Accept-Encoding: gzip,deflate e muitos outros parametros.
